@@ -13,7 +13,7 @@ div.main{
   padding: 20px;
   border-radius: 0px 0px 25px 25px;
   text-align: center;
-  width: 100%;
+  width: 2400px;
 
 }
 
@@ -22,11 +22,11 @@ div.Home{
   padding: 220px;
   border-radius: 0px 0px 25px 25px;
   text-align: center;
-  width: 100%;
+  width: 2000px;
 }
 
 nav{
-  width: 100%;
+  width: 2400px;
   height: 100px;
   background-color: #ffffff;
   float: center;
@@ -37,7 +37,7 @@ nav{
 
 
 div ul{
-  width: 100%;
+  width: 2000px;
   height: 100px;
   background-color: #ffffff;
   float: left;
