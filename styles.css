@@ -34,13 +34,11 @@ nav{
   border-radius: 25px 25px 0px 0px;
 
 }
-
-
 div ul{
   height: 100px;
   background-color: #ffffff;
   float: left;
-  margin: 0;
+  margin-left:15%;
   padding: 0;
   border-radius: 25px;
 }
