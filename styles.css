@@ -1,5 +1,6 @@
 body {
-  background-image: url('https://willythewoo.github.io/WillyTheWoo/images/Dusk-min.jpg');
+  /* background-image: url('https://willythewoo.github.io/WillyTheWoo/images/Dusk-min.jpg'); */
+  background-color: #FEB8C6;
   background-repeat: repeat;
   background-size: 100%;
   font-family: Helvetica;
@@ -53,7 +54,7 @@ div ul li {
 div ul li a{
   display:block;
   text-decoration: none;
-  font-size: 30px;
+  font-size: 20px;
   font-family: Helvetica;
   color: #1e1e1e;
   padding: 0 20px;
