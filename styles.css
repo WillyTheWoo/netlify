@@ -23,7 +23,7 @@ div.main{
 
 div.Home{
   background-color: rgba(255, 255, 255, 0.8)   /* 35% opaque white */;
-  padding: 220px;
+  padding: 10px;
   border-radius: 0px 0px 25px 25px;
   text-align: center;
 }
@@ -36,7 +36,7 @@ nav{
   border-radius: 25px 25px 0px 0px;
 
 }
-div ul{
+div.whole ul{
   height: 100px;
   background-color: #ffffff;
   float: left;
@@ -45,19 +45,19 @@ div ul{
   border-radius: 25px;
 }
 
-div ul li {
+div.whole ul li {
   list-style: none;
   display: inline-block;
   line-height: 100px;
 }
 
-div ul li a{
+div.whole ul li a{
   display:block;
   text-decoration: none;
   font-size: 20px;
   font-family: Helvetica;
   color: #1e1e1e;
-  padding: 0 20px;
+  padding: 0px 20px;
 }
 
 img{
